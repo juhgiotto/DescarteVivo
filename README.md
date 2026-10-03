@@ -22,10 +22,17 @@ O objetivo é incentivar o descarte correto de resíduos eletrônicos e facilita
 ## 📂 Estrutura do Projeto
 
 DescarteVivo/
+
 │
+
 ├── index.html        # Página principal
+
 ├── /css              # Estilos
+
 │   └── style.css
+
 ├── /js               # Scripts
+
 │   └── main.js
+
 └── /assets           # Imagens, ícones e outros recursos
